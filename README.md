@@ -1,4 +1,8 @@
 Simple File archiver with py7zr module.
+
+- You can also exclude files with a specified text file.
+- Note that this preliminary version only uses the default py7zr compression values.
+
 # Requirements
 * py7zr
 
